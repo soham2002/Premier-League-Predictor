@@ -53,11 +53,3 @@ pip install -r requirements.txt
 ## Contributing
 
 If you would like to contribute to this project, please follow the standard GitHub flow: fork the repository, create a branch, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README to include any additional information, instructions, or details specific to your project. Good luck with your English Premier League match outcome forecasting!
